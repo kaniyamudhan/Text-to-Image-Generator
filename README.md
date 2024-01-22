@@ -20,8 +20,8 @@ This repository contains a simple React application for generating images using 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/image-generator-app.git
-    cd image-generator-app
+    git clone https://github.com/kaniyamudhan/Text-to-Image-Generator.git
+    cd Text-to-Image-Generator
     ```
 
 2. Install dependencies:
