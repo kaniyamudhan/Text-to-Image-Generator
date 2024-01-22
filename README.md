@@ -48,9 +48,7 @@ This repository contains a simple React application for generating images using 
 
 Feel free to customize the styles, add new features, or integrate additional APIs to enhance the functionality of the app.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
