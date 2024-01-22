@@ -1,5 +1,5 @@
 # Text-to-Image-Generator
-# Image Generator App
+# Image Generator App1
 
 This repository contains a simple React application for generating images using the Hugging Face API.
 
