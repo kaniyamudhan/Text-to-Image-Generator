@@ -44,11 +44,6 @@ This repository contains a simple React application for generating images using 
 2. Click the "Generate Image" button to create an image.
 3. Once the image is generated, you can download it using the "Download Image" button.
 
-## Customization
-
-Feel free to customize the styles, add new features, or integrate additional APIs to enhance the functionality of the app.
-
-
 
 ## Acknowledgments
 
